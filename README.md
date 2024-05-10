@@ -1,6 +1,6 @@
 ### _oii, tudo?_ 💗
 
--sou estudante do alura
+-sou estudante do [alura](https://www.alura.com.br)
 
 -estou aprendendo a linguagem do JavaScript
 
